@@ -1,0 +1,35 @@
+{
+  "name": "late-night-coding-theme",
+  "displayName": "Late Night Coding Theme",
+  "description": "Late Night Coding VSCode Theme by Manoj Kumar",
+  "version": "0.0.1",
+  "publisher": "manojkumar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iamsidar07/cool-night-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "latenightcode",
+    "darktheme",
+    "Late Night Code",
+    "Manoj Kumar",
+    "latenightcodingtheme",
+    "latenightcoding"
+  ],
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Late Night Coding Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Late Night Coding Theme-color-theme.json"
+      }
+    ]
+  }
+}
