@@ -1,8 +1,16 @@
 # Late Night Coding Theme 🇮🇳.
 
-I made my own vscode theme "Late Night Coding Theme"
+![Late Night Coding Theme Logo](images/logo.png)
+
+## Preview
 
 ![Preview](images/preview.png)
+
+## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+```bash
+ext install ManojKumar.late-night-coding-theme
+```
 
 ## Connect with me-
 * [Website](https://manoj-kumar-portfolio.vercel.app/)
