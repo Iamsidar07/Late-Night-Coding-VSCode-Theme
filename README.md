@@ -1,7 +1,5 @@
 # Late Night Coding Theme 🇮🇳.
 
-![Late Night Coding Theme Logo](images/logo.png)
-
 ## Preview
 
 ![Preview](images/preview.png)
@@ -20,10 +18,3 @@ ext install ManojKumar.late-night-coding-theme
 
 
 **Enjoy! 🥳**
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
