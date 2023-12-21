@@ -1,7 +1,7 @@
 {
 	"name": "Late Night Coding Theme",
 	"colors": {
-		"editor.background": "#011627",
+		"editor.background": "#011627d5",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#146AF7",
 		"activityBar.background": "#011627d5",
@@ -51,7 +51,7 @@
 		"editorInfo.foreground": "#16F8B670",
 		"editorLineNumber.activeForeground": "#A575FF",
 		"editorLineNumber.foreground": "#486377",
-		"editorLink.activeForeground": "#FFF077",
+		"editorLink.activeForeground": "#ffe100",
 		"editorMarkerNavigation.background": "#ff000005",
 		"editorOverviewRuler.border": "#0D1224",
 		"editorOverviewRuler.errorForeground": "#773EEA40",
@@ -64,7 +64,7 @@
 		"editorSuggestWidget.foreground": "#fff",
 		"editorSuggestWidget.highlightForeground": "#FBFBFB",
 		"editorSuggestWidget.selectedBackground": "#0E293F",
-		"editorWarning.foreground": "#FFFFFF",
+		"editorWarning.foreground": "#fff",
 		"editorWhitespace.foreground": "#FFFFFF40",
 		"editorWidget.background": "#0D1224",
 		"editorWidget.border": "#FBFBFB",
@@ -173,6 +173,7 @@
 		"tab.unfocusedActiveForeground": "#FFFFFF",
 		"tab.unfocusedInactiveBackground": "#FFFFF110",
 		"tab.unfocusedInactiveForeground": "#FFFFFF7f",
+		"terminal.border": "#0E293F",
 		"terminal.ansiBlack": "#0E3357",
 		"terminal.ansiBlue": "#146AF7",
 		"terminal.ansiBrightBlack": "#486377",
@@ -199,7 +200,7 @@
 		"titleBar.inactiveBackground": "#0D1224",
 		"titleBar.inactiveForeground": "#FFFFF1",
 		"tree.indentGuidesStroke": "#0D1224",
-		"widget.shadow": "#0D122430"
+		"widget.shadow": "#0D122430",
 	},
 	"tokenColors": [
 		{
@@ -209,7 +210,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#546E7A"
+				"foreground": "#546E7A",
 			}
 		},
 		{
@@ -238,7 +239,8 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#d25469"
+				"foreground": "#546E7A",
+				"fontStyle": "strikethrough"
 			}
 		},
 		{
@@ -249,7 +251,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#A183DC"
+				"foreground": "#A183DC",
 			}
 		},
 		{
