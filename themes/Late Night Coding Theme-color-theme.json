@@ -123,7 +123,8 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1706,7 +1707,8 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1789,7 +1791,8 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1822,7 +1825,9 @@
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {}
+      "settings": {
+        "fontStyle": "italic"
+      }
     },
     {
       "name": "Python Keyword Control",
@@ -2009,7 +2014,7 @@
     "editorWidget.resizeBorder": "#547998",
     "pickerGroup.border": "#547998",
     "pickerGroup.foreground": "#3794ff",
-    "debugToolBar.background": "#333333",
+    "debugToolBar.background": "#011628",
     "debugToolBar.border": "#547998",
     "notifications.foreground": "#b4d0e9",
     "notifications.background": "#011423",
