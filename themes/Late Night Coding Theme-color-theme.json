@@ -109,7 +109,8 @@
       "name": "punctuation.definition",
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
-        "foreground": "#ebc284"
+        "foreground": "#98C464",
+        "fontStyle": "italic"
       }
     },
     {
@@ -123,7 +124,8 @@
       "name": "Comment Markup Link",
       "scope": "comment markup.link",
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -210,7 +212,8 @@
         "storage.type.object.array.java"
       ],
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -238,7 +241,8 @@
       "name": "java modifier.import",
       "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -377,7 +381,8 @@
       "name": "js console function",
       "scope": "entity.name.function,support.function.console",
       "settings": {
-        "foreground": "#58d5ca"
+        "foreground": "#58d5ca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -573,7 +578,8 @@
       "name": "Java Imports",
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -599,7 +605,8 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#58d5ca"
+        "foreground": "#58d5ca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -613,7 +620,8 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -673,14 +681,16 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#c086e9"
+        "foreground": "#c086e9",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "Storage JS TS",
       "scope": "token.storage",
       "settings": {
-        "foreground": "#c086e9"
+        "foreground": "#c086e9",
+        "fontStyle": "italic"
       }
     },
     {
@@ -694,7 +704,8 @@
       "name": "Java Storage",
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -736,7 +747,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#ebc284"
+        "foreground": "#98C464",
       }
     },
     {
@@ -1052,14 +1063,16 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#e2999f"
+        "foreground": "#28BDDA",
+        "fontStyle": "italic"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] JSON Punctuation for Property Name",
       "scope": "support.type.property-name.json punctuation",
       "settings": {
-        "foreground": "#e2999f"
+        "foreground": "#28BDDA",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1122,7 +1135,8 @@
       "name": "php types",
       "scope": "storage.type.php,meta.other.type.phpdoc.php,keyword.other.type.php,keyword.other.array.phpdoc.php",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1276,7 +1290,8 @@
       "name": "cs storage type",
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#7fdbca"
+        "foreground": "#7fdbca",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1706,7 +1721,8 @@
         "beginning.punctuation.definition.list.markdown.xi"
       ],
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1789,7 +1805,8 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "foreground": "#547998"
+        "foreground": "#547998",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1822,7 +1839,9 @@
     {
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
-      "settings": {}
+      "settings": {
+        "fontStyle": "italic"
+      }
     },
     {
       "name": "Python Keyword Control",
