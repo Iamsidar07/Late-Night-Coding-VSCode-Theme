@@ -1,8 +1,12 @@
 # Late Night Coding Theme 🇮🇳.
 
-## Preview
+## Previews
 
-![Preview](images/preview.png)
+![Preview](images/SDewtukM-default.jpeg)
+
+![Preview](images/SDewtukM-commandPalette.jpeg)
+
+![Preview](images/SDewtukM-panelTerminal.jpeg)
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
