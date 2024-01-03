@@ -110,7 +110,6 @@
       "scope": "punctuation.definition.string.begin,punctuation.definition.string.end",
       "settings": {
         "foreground": "#98C464",
-        "fontStyle": "italic"
       }
     },
     {
@@ -213,7 +212,6 @@
       ],
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -242,7 +240,6 @@
       "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -382,7 +379,6 @@
       "scope": "entity.name.function,support.function.console",
       "settings": {
         "foreground": "#58d5ca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -579,7 +575,6 @@
       "scope": "import.storage.java",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -606,7 +601,6 @@
       ],
       "settings": {
         "foreground": "#58d5ca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -621,7 +615,6 @@
       "scope": "support.class, entity.name.type.class",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -690,7 +683,6 @@
       "scope": "token.storage",
       "settings": {
         "foreground": "#c086e9",
-        "fontStyle": "italic"
       }
     },
     {
@@ -705,7 +697,6 @@
       "scope": "token.storage.type.java",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
@@ -1289,7 +1280,6 @@
       "scope": "storage.type.cs",
       "settings": {
         "foreground": "#7fdbca",
-        "fontStyle": "italic"
       }
     },
     {
